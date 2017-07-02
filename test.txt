@@ -1,0 +1,1 @@
+t wanted to test the push command in GitHub by creating a file, editing it, commiting it, and pushing it to the remote repo!
